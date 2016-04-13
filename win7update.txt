@@ -1,0 +1,5 @@
+If updating fresh Win7, first download these, install, and reboot to make update install faster:
+
+KB3012810
+KB3135445
+KB3139852
