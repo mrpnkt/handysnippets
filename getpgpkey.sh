@@ -1,0 +1,3 @@
+# When blocked...
+
+gpg --keyserver hkp://keyserver.ubuntu.com:80 --recv XXXX
